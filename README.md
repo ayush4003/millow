@@ -29,3 +29,5 @@ In a separate terminal execute:
 
 ### 7. Start frontend
 `$ npm run start`
+
+![prop2](https://github.com/ayush4003/millow/assets/158837482/961aa8ba-81fb-46f5-8a00-943b5d549af9)
