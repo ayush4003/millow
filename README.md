@@ -55,3 +55,7 @@ In a separate terminal execute:
 
 Properties listed 
 ![prop2](https://github.com/ayush4003/millow/assets/158837482/961aa8ba-81fb-46f5-8a00-943b5d549af9)
+
+property description 
+![prop1](https://github.com/ayush4003/millow/assets/158837482/fd1ada2b-a035-4ef8-82da-cc0bb56b11b5)
+
